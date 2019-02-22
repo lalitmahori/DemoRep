@@ -7,6 +7,8 @@ public class Demo {
 
 		
 		System.out.println("This is Demo class file");
+		
+		System.out.println("Lets Demo it");
 	}
 
 }
