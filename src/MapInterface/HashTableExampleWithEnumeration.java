@@ -17,9 +17,9 @@ public class HashTableExampleWithEnumeration {
 		
 		// add key-value pair to Hashtable
 		
-		hm.put("first", "Anshika");
-		hm.put("second", "Gudiya");
-		hm.put("third", "Kanchan");
+		hm.put("first", "Automation");
+		hm.put("second", "API Testing");
+		hm.put("third", "Appium");
 		
 		Enumeration<String> keys=hm.keys();
 		

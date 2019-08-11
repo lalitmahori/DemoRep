@@ -19,7 +19,7 @@ public class HashSetExample {
 		hs.add("Mahori");
 		hs.add("Champion");
 		hs.add("Lalit");
-		hs.add("Unemployee");
+		hs.add("Automation Tester");
 		
 		System.out.println(hs);
 		
