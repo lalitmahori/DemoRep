@@ -12,14 +12,14 @@ public class ArrayListExample {
 
 		
 		ArrayList<String> a=new ArrayList<>();
-		a.add("Anshika Ke");
-		a.add("Love");
-		a.add("Love");
-		a.add("143");
+		a.add("JAPAN");
+		a.add("UK");
+		a.add("France");
+		a.add("America");
 		
 		System.out.println(a);
 		
-		a.add(0,"Bade Gand Marne h");
+		a.add(0,"cool");
 		
 		System.out.println(a);
 		
@@ -32,8 +32,8 @@ public class ArrayListExample {
 		
 		System.out.println(a.get(1));
 		
-		System.out.println(a.contains("Bade Gand Marne h"));
-		System.out.println(a.indexOf("Anshika Ke"));
+		System.out.println(a.contains("UK"));
+		System.out.println(a.indexOf("America"));
 		
 		System.out.println(a.isEmpty());
 		
