@@ -12,10 +12,10 @@ public class ArrayListExample {
 
 		
 		ArrayList<String> a=new ArrayList<>();
-		a.add("JAPAN");
-		a.add("UK");
-		a.add("France");
-		a.add("America");
+		a.add("India");
+		a.add("Uttarakhand");
+		a.add("UP");
+		a.add("Himachal");
 		
 		System.out.println(a);
 		
@@ -32,8 +32,8 @@ public class ArrayListExample {
 		
 		System.out.println(a.get(1));
 		
-		System.out.println(a.contains("UK"));
-		System.out.println(a.indexOf("America"));
+		System.out.println(a.contains("Moradabad"));
+		System.out.println(a.indexOf("Alaknanda"));
 		
 		System.out.println(a.isEmpty());
 		

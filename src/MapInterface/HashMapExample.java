@@ -13,9 +13,9 @@ public class HashMapExample {
 		//randomly add
 		HashMap<Integer,String> hm=new HashMap<Integer,String>();
 		
-		hm.put(0,"Lalit");
-		hm.put(43,"Mahori");
-		hm.put(42,"Chalo");
+		hm.put(0,"Selenium");
+		hm.put(43,"Architect");
+		hm.put(42,"Future");
 		
 		System.out.println(hm);
 		System.out.println(hm.get(43));
